@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mov369
+- 👀 I’m interested in Software/Electronic Engineering, Mycology/Botany/Human Biology
+- 🌱 I’m currently learning Webdevelopment (HTML, CSS, Java)
+- 💞️ I’m looking to collaborate on building a shop website
+- 📫 How to reach me: juhtanovs.m@gmail.com
